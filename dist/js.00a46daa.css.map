@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/custom.scss"],"names":[],"mappings":"AAAA;EACI;;;AAGJ;EACI;;;AAGJ;EACI","file":"js.00a46daa.css","sourceRoot":"../src","sourcesContent":["body{\n    background-color: red;\n}\n\n.loren-ipsum {\n    cursor: pointer;\n}\n\n.loren-ipsum:hover {\n    color: rgb(40, 185, 4);\n}"]}

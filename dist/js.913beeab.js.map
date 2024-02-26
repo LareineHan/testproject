@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/index.js"],"names":["require","console","log"],"mappings":";;;AAE0B,aAF1BA,QAAA,yBAEAC,QAAQC,IAAI","file":"js.913beeab.js","sourceRoot":"../src","sourcesContent":["import './../scss/custom.scss';\n\nconsole.log('hello world');\n"]}
